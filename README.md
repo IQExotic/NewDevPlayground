@@ -59,7 +59,7 @@ To get started with a project, you'll need to clone the NewDevPlayground reposit
 
 Now that you've cloned the NewDevPlayground repository to your local machine, it's time to create your project within your preferred Integrated Development Environment (IDE) or code editor. Follow these steps to set up your project:
 
-1. **Open Your IDE:**
+1. **Open Your IDE (Code Editor):**
    - Launch your chosen IDE or code editor.
 
 2. **Navigate to the "Projects" Directory:**
